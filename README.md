@@ -13,4 +13,4 @@ Stroke Color:\
 Background Color:\
 Pen Size:\
 Undo, Clear, and Exit Buttons:\
-Info Box: Mouse Position, and also determines a shape's perimeter and area.\
+Info Box: Mouse Position, and also determines a shape's perimeter and area.
